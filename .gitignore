@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+14.10_Autocomplete.sln
+14.10_Autocomplete.vcxproj
+14.10_Autocomplete.vcxproj.filters
